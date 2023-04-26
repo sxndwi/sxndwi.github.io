@@ -1,12 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.4dde1f5e.js",
+    "main.js": "/static/js/main.9eb18eed.js",
     "static/js/787.d1e22355.chunk.js": "/static/js/787.d1e22355.chunk.js",
+    "static/media/SFProDisplay-Regular.woff": "/static/media/SFProDisplay-Regular.7ee14c637e39445d7093.woff",
+    "static/media/SFProDisplay-Regular.woff2": "/static/media/SFProDisplay-Regular.d5ff9f6824d2c6607361.woff2",
+    "static/media/Snow.svg": "/static/media/Snow.c43e5359e4a1bb7f362a6a9b810be948.svg",
+    "static/media/Rain.svg": "/static/media/Rain.35a5d0f9ed2231a4c137323c908439af.svg",
+    "static/media/Sun.svg": "/static/media/Sun.7fdfd406c973da594740f511ff4e4b98.svg",
+    "static/media/Cloud.svg": "/static/media/Cloud.e2b2b2a1ab9840c75fbfc1ba11c0cd90.svg",
+    "static/media/Thunderstorm.svg": "/static/media/Thunderstorm.b2899e465b8903984104e7324468ee7d.svg",
     "index.html": "/index.html",
-    "main.4dde1f5e.js.map": "/static/js/main.4dde1f5e.js.map",
+    "main.9eb18eed.js.map": "/static/js/main.9eb18eed.js.map",
     "787.d1e22355.chunk.js.map": "/static/js/787.d1e22355.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.4dde1f5e.js"
+    "static/js/main.9eb18eed.js"
   ]
 }
